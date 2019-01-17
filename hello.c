@@ -11,6 +11,7 @@
 int main(int argc, char **argv) {
 
   printf("Izzy Hinrichsen\n");
+  printf("Undeclared\n");
 
   return 0;
 }
